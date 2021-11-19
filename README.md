@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reinaldos
 - 👀 I’m interested in WORK HARD ON A PROJECT
-- 🌱 I’m currently PYTHON! IS AWESOME
+- 🌱 I’m currently BEGINNER ON PYTHON AND DATA CIENCE ON RESILIA!
 - 💞️ I’m looking to collaborate on CODE, FO EVERTHING
 - 📫 How to reach me Reinaldols@protonmail.com
 
